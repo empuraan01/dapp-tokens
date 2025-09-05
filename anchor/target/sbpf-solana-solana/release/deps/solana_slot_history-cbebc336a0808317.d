@@ -1,0 +1,8 @@
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/libsolana_slot_history-cbebc336a0808317.rmeta: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-slot-history-2.2.1/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-slot-history-2.2.1/src/sysvar.rs
+
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/libsolana_slot_history-cbebc336a0808317.rlib: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-slot-history-2.2.1/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-slot-history-2.2.1/src/sysvar.rs
+
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/solana_slot_history-cbebc336a0808317.d: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-slot-history-2.2.1/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-slot-history-2.2.1/src/sysvar.rs
+
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-slot-history-2.2.1/src/lib.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-slot-history-2.2.1/src/sysvar.rs:

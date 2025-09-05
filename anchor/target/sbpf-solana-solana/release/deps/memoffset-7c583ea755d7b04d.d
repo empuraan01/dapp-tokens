@@ -1,0 +1,10 @@
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/libmemoffset-7c583ea755d7b04d.rmeta: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/libmemoffset-7c583ea755d7b04d.rlib: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/memoffset-7c583ea755d7b04d.d: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs:

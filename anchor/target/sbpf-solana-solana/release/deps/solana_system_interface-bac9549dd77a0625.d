@@ -1,0 +1,9 @@
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/libsolana_system_interface-bac9549dd77a0625.rmeta: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/libsolana_system_interface-bac9549dd77a0625.rlib: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/solana_system_interface-bac9549dd77a0625.d: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs
+
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/lib.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/error.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-system-interface-1.0.0/src/instruction.rs:

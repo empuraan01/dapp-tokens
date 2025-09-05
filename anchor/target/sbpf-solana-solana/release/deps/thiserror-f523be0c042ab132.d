@@ -1,0 +1,10 @@
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/libthiserror-f523be0c042ab132.rmeta: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/libthiserror-f523be0c042ab132.rlib: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/padmanabhansridhar/Desktop/dapp-tokens/anchor/target/sbpf-solana-solana/release/deps/thiserror-f523be0c042ab132.d: /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/Users/padmanabhansridhar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:
