@@ -69,16 +69,6 @@ pub mod dapptokens {
         );
 
         require!(
-            from_account.mint == to_account.mint,
-            PaymentError::MintMismatch
-        );
-
-        require!(
-            from_account.mint == mint.key(),
-            PaymentError::MintMismatch
-        );
-
-        require!(
             from_account.amount >= amount,
             PaymentError::InsufficientFunds
         );
